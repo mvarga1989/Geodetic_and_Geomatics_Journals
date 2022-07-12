@@ -6,6 +6,7 @@ You wish to add or change something? Please send me an [email](mailto:mvarga1989
 - [**Contributions to Geophysics and Geodesy**](https://journal.geo.sav.sk/cgg)
 - [**Geodesy and Cartography**](https://journals.vilniustech.lt/index.php/GAC)
 - [**Geodesy and Geodynamics**](https://www.sciencedirect.com/journal/geodesy-and-geodynamics)
+- [**Geomatics**](https://www.mdpi.com/journal/Geomatics)
 - [**Geomatica**](https://cdnsciencepub.com/journal/geomat)
 - [**Geomatics and Enivornmental Engineering**](https://www.gaee.agh.edu.pl/index.php/gaee/index)
 - [**Geospatial Information Science**](https://www.tandfonline.com/journals/tgsi20)
@@ -20,3 +21,4 @@ You wish to add or change something? Please send me an [email](mailto:mvarga1989
 - [**Studia Geophysica et Geodaetica**](https://www.springer.com/journal/11200)
 - [**Survey Review**](https://www.tandfonline.com/toc/ysre20/current)
 - [**Surveying and Land Information Science**](https://www.ingentaconnect.com/content/1559-7202)
+

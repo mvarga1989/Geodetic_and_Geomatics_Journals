@@ -1,4 +1,4 @@
-# Community list of geodetic, geomatic, geoinformatics, geophysics journals
+# Community list of geodetic, geomatic, geoinformatics, and geophysics journals
 
 You wish to add or change something? Please send me an [email](mailto:mvarga1989@gmail.com), create a [pull request](https://github.com/mvarga1989/Geodetic_and_Geomatics_Journals/pulls) or an [issue](https://github.com/mvarga1989/Geodetic_and_Geomatics_Journals/issues).
 

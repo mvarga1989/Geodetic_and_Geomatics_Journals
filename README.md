@@ -70,6 +70,7 @@ You wish to add or change something? Please send me an [email](mailto:mvarga1989
 - [**Geofizika**](http://geofizika-journal.gfz.hr/)
 - [**Geoinformatica**](http://link.springer.com/journal/10707)
 - [**Geologica Croatica**](http://www.geologia-croatica.hr/ojs/index.php/GC/indeks)
+- [**Geomatics, Natural Hazards and Risk**](https://www.tandfonline.com/journals/tgnh20)
 - [**Geomorphology**](http://www.journals.elsevier.com/geomorphology/)
 - [**Geophysica**](http://www.geophysica.fi/index.php?action=displaypage&content=editorial_board.html)
 - [**Geophysical Journal International**](http://gji.oxfordjournals.org/)

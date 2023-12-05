@@ -141,6 +141,7 @@ You wish to add or change something? Please send me an [email](mailto:mvarga1989
 - [**Remote Sensing Environment**](https://www.journals.elsevier.com/remote-sensing-of-environment)
 - [**Remote Sensing Letters**](http://www.tandfonline.com/toc/trsl20/current)
 - [**Reviews of Geophysics**](http://preview.onlinelibrary.wiley.com/agu/journal/10.1002/%28ISSN%291944-9208/)
+- [**RevCAD Journal of Geodesy and Cadastre**](http://revcad.uab.ro/index.php?pagina=-&id=1&l=en)
 - [**Science China Earth Sciences**](https://www.springer.com/earth+sciences+and+geography/journal/11430)
 - [**Sensors**](http://www.mdpi.com/journal/sensors)
 - [**SoftwareX**](https://www.journals.elsevier.com/softwarex)

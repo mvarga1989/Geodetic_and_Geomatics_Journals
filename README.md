@@ -33,6 +33,7 @@ Do you wish to add or change something? Please send me an [email](mailto:mvarga1
 - [**Kartografija i geoinformacije**](http://kig.kartografija.hr/index.php/kig)
 - [**Marine Geodesy**](https://www.tandfonline.com/toc/umgd20/current)
 - [**Studia Geophysica et Geodaetica**](https://www.springer.com/journal/11200)
+- [**Reports on Geodesy and Geoinformatics**](https://sciendo.com/journal/RGG)
 - [**Survey Review**](https://www.tandfonline.com/toc/ysre20/current)
 - [**Survey Review**](https://www.tandfonline.com/toc/ysre20/current)
 - [**Surveying and Land Information Science**](https://www.ingentaconnect.com/content/1559-7202)

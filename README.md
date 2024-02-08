@@ -9,7 +9,7 @@ Do you wish to add or change something? Please send me an [email](mailto:mvarga1
 - [**Contributions to Geophysics and Geodesy**](https://journal.geo.sav.sk/cgg)
 - [**Geodesy and Cartography**](https://journals.vilniustech.lt/index.php/GAC)
 - [**Geodesy and Cartography**](https://www.tandfonline.com/action/journalInformation?journalCode=tgac20)
-- [**Geodesy and Geodynamics**](http://www.keaipublishing.com/en/journals/geodesy-and-geodynamics/) [****](https://www.sciencedirect.com/journal/geodesy-and-geodynamics)
+- [**Geodesy and Geodynamics**](http://www.keaipublishing.com/en/journals/geodesy-and-geodynamics/) [**Link2**](https://www.sciencedirect.com/journal/geodesy-and-geodynamics)
 - [**Geodetski glasnik**](http://www.suggsbih.ba/index.htm)
 - [**Geodetski list**](http://hrcak.srce.hr/geodetski-list)
 - [**Geodetski vestnik**](http://geodetski-vestnik.com/en/)
@@ -150,4 +150,3 @@ Do you wish to add or change something? Please send me an [email](mailto:mvarga1
 - [**Terrestrial, Atmospheric and Oceanic Sciences**](http://tao.cgu.org.tw/index.php)
 - [**Transactions in GIS**](https://onlinelibrary.wiley.com/journal/14679671)
 - [**Water Resources Research**](https://agupubs.onlinelibrary.wiley.com/journal/19447973)
-

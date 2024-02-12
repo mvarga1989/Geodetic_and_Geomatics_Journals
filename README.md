@@ -113,6 +113,7 @@ Do you wish to add or change something? Please send me an [email](mailto:mvarga1
 - [**Journal of Geophysics and Engineering**](https://academic.oup.com/jge)
 - [**Journal of Geosciences and Geomatics**](http://www.sciepub.com/journal/jgg)
 - [**Journal of Hydrology**](https://www.journals.elsevier.com/journal-of-hydrology)
+- [**Journal of the Indian Society of Remote Sensing**](https://link.springer.com/journal/12524)
 - [**Journal of Maps**](http://www.tandfonline.com/action/showAxaArticles?journalCode=tjom20)
 - [**Journal of Navigation**](https://www.cambridge.org/core/journals/journal-of-navigation/information/abstracting-indexing-services)
 - [**Journal of Seismology**](http://www.springer.com/earth+sciences+and+geography/geophysics/journal/10950)

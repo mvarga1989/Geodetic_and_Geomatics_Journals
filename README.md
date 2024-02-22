@@ -1,4 +1,4 @@
-# Community list of geospatial sciences journals, mostly focused on geodetic, geomatics, geoinformatics, and geophysics
+# Community list of geospatial sciences journals, mostly focused on geodesy, geomatics, geoinformatics, remote sensing, photogrammetry and geophysics
 
 Do you wish to add or change something? Please send me an [email](mailto:mvarga1989@gmail.com), create a [pull request](https://github.com/mvarga1989/Geodetic_and_Geomatics_Journals/pulls) or an [issue](https://github.com/mvarga1989/Geodetic_and_Geomatics_Journals/issues).
 
@@ -41,11 +41,14 @@ Do you wish to add or change something? Please send me an [email](mailto:mvarga1
 - [**Acta Geophysica**](http://link.springer.com/journal/11600)
 - [**Advances in Space Research**](https://www.journals.elsevier.com/advances-in-space-research)
 - [**Annals of Geophysics**](http://www.annalsofgeophysics.eu/index.php/annals/indeks)
-- [**Applied geomatics**](https://www.springer.com/journal/12518)
+- [**Applied Geomatics**](https://www.springer.com/journal/12518)
 - [**Applied Geophysics**](http://link.springer.com/journal/11770)
+- [**Applied Sciences**](https://www.mdpi.com/journal/applsci)
 - [**Arabian Journal of Geosciences**](http://www.springer.com/earth+sciences+and+geography/journal/12517/PSE)
+- [**Automation in construction**](https://www.sciencedirect.com/journal/automation-in-constructionapp)
 - [**Bollettino di Geofisica Teorica ed Applicata**](http://www3.ogs.trieste.it/bgta/about.php)
 - [**Canadian Geotechnical Journal**](http://www.nrcresearchpress.com/journal/cgj)
+- [**Canadian Journal of Remote Sensing**](http://www.nrcresearchpress.com/page/cjes/editors)
 - [**Canadian Journal of Earth Sciences**](http://www.nrcresearchpress.com/page/cjes/editors)
 - [**Cartography and Geographic Information Science**](https://www.tandfonline.com/toc/tcag20/current)
 - [**Central European Journal of Geosciences**](https://www.degruyter.com/view/j/geo)

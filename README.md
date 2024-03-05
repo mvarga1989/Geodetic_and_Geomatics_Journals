@@ -124,7 +124,7 @@ Do you wish to add or change something? Please send me an [email](mailto:mvarga1
 - [**Journal of Navigation**](https://www.cambridge.org/core/journals/journal-of-navigation/information/abstracting-indexing-services)
 - [**Journal of Seismology**](http://www.springer.com/earth+sciences+and+geography/geophysics/journal/10950)
 - [**Journal of South American Earth Sciences**](https://www.sciencedirect.com/journal/journal-of-south-american-earth-sciences)
-- [**Journal of Spatial Science**](https://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=tjss20)
+- [**Journal of Spatial Science**](https://www.tandfonline.com/journals/tjss20)
 - [**Journal of the Geodetic Society of Japan**](https://www.jstage.jst.go.jp/browse/sokuchi/)
 - [**Marine Geodesy**](http://www.tandfonline.com/action/journalInformation?show=abstractingIndexing&journalCode=umgd20)
 - [**Marine Geophysical Research**](https://link.springer.com/journal/11001)

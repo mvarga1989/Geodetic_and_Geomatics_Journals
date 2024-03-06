@@ -19,6 +19,7 @@ Do you wish to add or change something? Please send me an [email](mailto:mvarga1
 - [**Geospatial Information Science**](https://www.tandfonline.com/journals/tgsi20)
 - [**GPS Solutions**](https://www.springer.com/journal/10291)
 - [**International Association of Geodesy Symposia**](https://www.springer.com/series/1345)
+- [**International Journal of Engineering and Geosciences**](https://dergipark.org.tr/en/pub/ijeg)
 - [**Journal of Applied Geodesy**](https://www.degruyter.com/journal/key/jag/html)
 - [**Journal of Cartography and Geographic Information- Kartographische Nachrichten**](https://link.springer.com/journal/42489)
 - [**Journal of Geodesy and Geoinformation**](http://hkmodergi.org/jgg/index.php/JGG/indeks)
@@ -33,7 +34,6 @@ Do you wish to add or change something? Please send me an [email](mailto:mvarga1
 - [**Reports on Geodesy and Geoinformatics**](https://sciendo.com/journal/RGG)
 - [**Survey Review**](https://www.tandfonline.com/toc/ysre20/current)
 - [**Surveying and Land Information Science**](https://www.ingentaconnect.com/content/1559-7202)
-
 
 ## Interdisciplinary geospatial sciences journals
 - [**Acta Geodaetica et Geophysica**](https://link.springer.com/journal/40328)
@@ -69,6 +69,7 @@ Do you wish to add or change something? Please send me an [email](mailto:mvarga1
 - [**Earth, Planets and Space**](https://link.springer.com/journal/40623)
 - [**Engineering**](https://www.journals.elsevier.com/engineering)
 - [**Environmental Modelling and Software**](https://www.journals.elsevier.com/environmental-modelling-and-software)
+- [**European Journal of Remote Sensing**](https://www.tandfonline.com/journals/tejr20)
 - [**Estonian Journal of Earth Sciences**](https://kirj.ee/earthsciences/?v=1ee0bf89c5d1)
 - [**Exploration Geophysics**](http://www.publish.csiro.au/eg)
 - [**Frontiers in Earth Science**](https://www.frontiersin.org/journals/earth-science)

@@ -146,6 +146,7 @@ Do you wish to add or change something? Please send me an [email](mailto:mvarga1
 - [**Remote Sensing**](https://www.mdpi.com/journal/remotesensing)
 - [**RevCAD Journal of Geodesy and Cadastre**](http://revcad.uab.ro/index.php?pagina=-&id=1&l=en)
 - [**Reviews of Geophysics**](http://preview.onlinelibrary.wiley.com/agu/journal/10.1002/%28ISSN%291944-9208/)
+- [**Science of Remote Sensing**](https://www.sciencedirect.com/journal/science-of-remote-sensing)
 - [**Science China Earth Sciences**](https://www.springer.com/earth+sciences+and+geography/journal/11430)
 - [**Sensors**](http://www.mdpi.com/journal/sensors)
 - [**SoftwareX**](https://www.journals.elsevier.com/softwarex)

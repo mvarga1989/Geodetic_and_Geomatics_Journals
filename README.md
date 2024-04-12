@@ -2,11 +2,15 @@
 
 Do you wish to add or change something? Please send me an [email](mailto:mvarga1989@gmail.com), create a [pull request](https://github.com/mvarga1989/Geodetic_and_Geomatics_Journals/pulls) or an [issue](https://github.com/mvarga1989/Geodetic_and_Geomatics_Journals/issues).
 
-## Geodesy and geomatics journals
+## Geodesy, geomatics, GIS, cartography journals
+- [**Acta Geodaetica et Geophysica**](https://link.springer.com/journal/40328)
 - [**Advances in Geodesy and Geoinformation**](https://journals.pan.pl/agg)
 - [**Applied Geomatics**](https://www.springer.com/journal/12518)
 - [**Bulletin of Geodetic Science**](http://www.scielo.br/revistas/bcg/iaboutj.htm)
+- [**Cartography and Geographic Information Science**](https://www.tandfonline.com/toc/tcag20/current)
 - [**Contributions to Geophysics and Geodesy**](https://journal.geo.sav.sk/cgg)
+- [**Contributions to Geophysics and Geodesy**](https://www.degruyter.com/view/j/congeo)
+- [**Geocarto International**](http://www.tandfonline.com/action/journalInformation?show=abstractingIndexing&journalCode=tgei20)
 - [**Geodesy and Cartography**](https://journals.vilniustech.lt/index.php/GAC)
 - [**Geodesy and Cartography**](https://www.tandfonline.com/action/journalInformation?journalCode=tgac20)
 - [**Geodesy and Geodynamics**](http://www.keaipublishing.com/en/journals/geodesy-and-geodynamics/) [**Link2**](https://www.sciencedirect.com/journal/geodesy-and-geodynamics)
@@ -35,22 +39,25 @@ Do you wish to add or change something? Please send me an [email](mailto:mvarga1
 - [**Survey Review**](https://www.tandfonline.com/toc/ysre20/current)
 - [**Surveying and Land Information Science**](https://www.ingentaconnect.com/content/1559-7202)
 
-## Interdisciplinary geospatial sciences journals
-- [**Acta Geodaetica et Geophysica**](https://link.springer.com/journal/40328)
+## Remote sensing journals
+- [**Canadian Journal of Remote Sensing**](https://www.tandfonline.com/journals/ujrs20)
+
+## Geophysics
 - [**Acta Geodynamica et Geomaterialia**](https://www.irsm.cas.cz/index_en.php?page=acta_scope)
 - [**Acta Geophysica**](http://link.springer.com/journal/11600)
-- [**Advances in Space Research**](https://www.journals.elsevier.com/advances-in-space-research)
 - [**Annals of Geophysics**](http://www.annalsofgeophysics.eu/index.php/annals/indeks)
-- [**Applied Geomatics**](https://www.springer.com/journal/12518)
 - [**Applied Geophysics**](http://link.springer.com/journal/11770)
+- [**Surveys in Geophysics**](http://link.springer.com/journal/10712)
+
+## Interdisciplinary geospatial sciences journals
+
+- [**Advances in Space Research**](https://www.journals.elsevier.com/advances-in-space-research)
 - [**Applied Sciences**](https://www.mdpi.com/journal/applsci)
 - [**Arabian Journal of Geosciences**](http://www.springer.com/earth+sciences+and+geography/journal/12517/PSE)
 - [**Automation in construction**](https://www.sciencedirect.com/journal/automation-in-constructionapp)
 - [**Bollettino di Geofisica Teorica ed Applicata**](http://www3.ogs.trieste.it/bgta/about.php)
 - [**Canadian Geotechnical Journal**](http://www.nrcresearchpress.com/journal/cgj)
-- [**Canadian Journal of Remote Sensing**](http://www.nrcresearchpress.com/page/cjes/editors)
-- [**Canadian Journal of Earth Sciences**](http://www.nrcresearchpress.com/page/cjes/editors)
-- [**Cartography and Geographic Information Science**](https://www.tandfonline.com/toc/tcag20/current)
+- [**Canadian Journal of Earth Sciences**](http://www.nrcresearchpress.com/page/cjes/)
 - [**Central European Journal of Geosciences**](https://www.degruyter.com/view/j/geo)
 - [**Chinese Geographical Science**](https://www.springer.com/journal/11769)
 - [**CHINESE JOURNAL OF GEOPHYSICS**](https://agupubs.onlinelibrary.wiley.com/journal/23260440)
@@ -58,7 +65,6 @@ Do you wish to add or change something? Please send me an [email](mailto:mvarga1
 - [**Computational Geosciences**](https://link.springer.com/journal/10596)
 - [**Computers & Geosciences**](http://www.journals.elsevier.com/computers-and-geosciences/)
 - [**Computers, Environment and Urban Systems**](https://www.journals.elsevier.com/computers-environment-and-urban-systems/)
-- [**Contributions to Geophysics and Geodesy**](https://www.degruyter.com/view/j/congeo)
 - [**Croatian Journal of Forest Engineering**](http://www.crojfe.com/home)
 - [**Current Science**](http://www.currentscience.ac.in/index.php)
 - [**Earth and Planetary Physics**](http://www.eppcgs.org/)
@@ -73,7 +79,6 @@ Do you wish to add or change something? Please send me an [email](mailto:mvarga1
 - [**Estonian Journal of Earth Sciences**](https://kirj.ee/earthsciences/?v=1ee0bf89c5d1)
 - [**Exploration Geophysics**](http://www.publish.csiro.au/eg)
 - [**Frontiers in Earth Science**](https://www.frontiersin.org/journals/earth-science)
-- [**Geocarto International**](http://www.tandfonline.com/action/journalInformation?show=abstractingIndexing&journalCode=tgei20)
 - [**Geochemistry, Geophysics, Geosystems**](http://onlinelibrary.wiley.com/journal/10.1002/%28ISSN%291525-2027)
 - [**Geofizika**](http://geofizika-journal.gfz.hr/)
 - [**Geoinformatica**](http://link.springer.com/journal/10707)
@@ -105,7 +110,7 @@ Do you wish to add or change something? Please send me an [email](mailto:mvarga1
 - [**International Journal of Geophysics**](https://www.hindawi.com/journals/ijge/)
 - [**International Journal of Geosciences**](http://www.scirp.org/journal/IJG/)
 - [**International Journal of Remote Sensing**](http://www.tandfonline.com/loi/tres20)
-- [**ISPRS International Journal of Geo-Information**]()
+- [**ISPRS International Journal of Geo-Information**](https://www.mdpi.com/journal/ijgi)
 - [**ISPRS Journal of Photogrammetry and Remote Sensing**](http://www.journals.elsevier.com/isprs-journal-of-photogrammetry-and-remote-sensing/)
 - [**Izvestiya, Physics of the Solid Earth**](https://www.springer.com/earth+sciences+and+geography/geophysics/journal/11486)
 - [**Journal of African Geosciences**](http://www.sciencedirect.com/science/journal/1464343X?sdc=1)
@@ -152,7 +157,6 @@ Do you wish to add or change something? Please send me an [email](mailto:mvarga1
 - [**SoftwareX**](https://www.journals.elsevier.com/softwarex)
 - [**Solid Earth Discussions**](https://www.solid-earth.net/volumes.html)
 - [**Studia Geophysica et Geodaetica**](http://www.springer.com/earth+sciences+and+geography/geophysics/journal/11200)
-- [**Surveys in Geophysics**](http://link.springer.com/journal/10712)
 - [**Sustainability**](https://www.mdpi.com/journal/sustainability)
 - [**Tectonophysics**](http://www.journals.elsevier.com/tectonophysics/)
 - [**Tehnički vjesnik**](http://www.tehnicki-vjesnik.com/web/public/page)

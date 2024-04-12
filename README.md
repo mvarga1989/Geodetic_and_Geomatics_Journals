@@ -2,6 +2,9 @@
 
 Do you wish to add or change something? Please send me an [email](mailto:mvarga1989@gmail.com), create a [pull request](https://github.com/mvarga1989/Geodetic_and_Geomatics_Journals/pulls) or an [issue](https://github.com/mvarga1989/Geodetic_and_Geomatics_Journals/issues).
 
+# Comparable lists of journals
+- [**Open Access Geodesy Journals**](https://oa.mg/journals/open-access-geodesy-journals)
+
 ## Geodesy, geomatics, GIS, cartography journals
 - [**Acta Geodaetica et Geophysica**](https://link.springer.com/journal/40328)
 - [**Advances in Geodesy and Geoinformation**](https://journals.pan.pl/agg)

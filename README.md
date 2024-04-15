@@ -24,7 +24,6 @@ Do you wish to add or change something? Please send me an [email](mailto:mvarga1
 - [**Geomatics and Enivornmental Engineering**](https://www.gaee.agh.edu.pl/index.php/gaee/index)
 - [**Geomatics**](https://www.mdpi.com/journal/Geomatics)
 - [**Geospatial Information Science**](https://www.tandfonline.com/journals/tgsi20)
-- [**GPS Solutions**](https://www.springer.com/journal/10291)
 - [**International Association of Geodesy Symposia**](https://www.springer.com/series/1345)
 - [**International Journal of Engineering and Geosciences**](https://dergipark.org.tr/en/pub/ijeg)
 - [**Journal of Applied Geodesy**](https://www.degruyter.com/journal/key/jag/html)
@@ -44,6 +43,8 @@ Do you wish to add or change something? Please send me an [email](mailto:mvarga1
 
 ## Remote sensing journals
 - [**Canadian Journal of Remote Sensing**](https://www.tandfonline.com/journals/ujrs20)
+## GIS
+
 
 ## Geophysics
 - [**Acta Geodynamica et Geomaterialia**](https://www.irsm.cas.cz/index_en.php?page=acta_scope)
@@ -51,6 +52,17 @@ Do you wish to add or change something? Please send me an [email](mailto:mvarga1
 - [**Annals of Geophysics**](http://www.annalsofgeophysics.eu/index.php/annals/indeks)
 - [**Applied Geophysics**](http://link.springer.com/journal/11770)
 - [**Surveys in Geophysics**](http://link.springer.com/journal/10712)
+- [**Geofizika**](http://geofizika-journal.gfz.hr/)
+- [**Geophysica**](http://www.geophysica.fi/index.php?action=displaypage&content=editorial_board.html)
+- [**Geophysical Journal International**](http://gji.oxfordjournals.org/)
+- [**Geophysical Prospecting**](https://onlinelibrary.wiley.com/journal/13652478)
+- [**Geophysical Research Letters**](https://agupubs.onlinelibrary.wiley.com/journal/19448007)
+- [**Geophysics**](https://library.seg.org/journal/gpysa7)
+
+## Satellite Geodesy, Navigation Systems, GNSS
+- [**NAVIGATION: Journal of the Institute of Navigation**](https://www.ion.org/publications/journal.cfm)
+- [**GPS Solutions**](https://www.springer.com/journal/10291)
+- [**Satellite Navigation**](https://satellite-navigation.springeropen.com/)
 
 ## Interdisciplinary geospatial sciences journals
 
@@ -83,16 +95,10 @@ Do you wish to add or change something? Please send me an [email](mailto:mvarga1
 - [**Exploration Geophysics**](http://www.publish.csiro.au/eg)
 - [**Frontiers in Earth Science**](https://www.frontiersin.org/journals/earth-science)
 - [**Geochemistry, Geophysics, Geosystems**](http://onlinelibrary.wiley.com/journal/10.1002/%28ISSN%291525-2027)
-- [**Geofizika**](http://geofizika-journal.gfz.hr/)
 - [**Geoinformatica**](http://link.springer.com/journal/10707)
 - [**Geologica Croatica**](http://www.geologia-croatica.hr/ojs/index.php/GC/indeks)
 - [**Geomatics, Natural Hazards and Risk**](https://www.tandfonline.com/journals/tgnh20)
 - [**Geomorphology**](http://www.journals.elsevier.com/geomorphology/)
-- [**Geophysica**](http://www.geophysica.fi/index.php?action=displaypage&content=editorial_board.html)
-- [**Geophysical Journal International**](http://gji.oxfordjournals.org/)
-- [**Geophysical Prospecting**](https://onlinelibrary.wiley.com/journal/13652478)
-- [**Geophysical Research Letters**](https://agupubs.onlinelibrary.wiley.com/journal/19448007)
-- [**Geophysics**](https://library.seg.org/journal/gpysa7)
 - [**Geoscience Letters**](http://www.springer.com/earth+sciences+and+geography/journal/40562)
 - [**Geoscience**](http://www.mdpi.com/journal/geosciences/indexing)
 - [**Geosciences Journal**](http://www.springer.com/earth+sciences+and+geography/journal/12303)
@@ -141,7 +147,6 @@ Do you wish to add or change something? Please send me an [email](mailto:mvarga1
 - [**Mathematical Geosciences**](https://www.springer.com/earth+sciences+and+geography/journal/11004/PSE)
 - [**Measurement Techniques**](https://www.springer.com/physics/applied+%26+technical+physics/journal/11018)
 - [**Measurement**](https://www.sciencedirect.com/journal/measurement)
-- [**NAVIGATION: Journal of the Institute of Navigation**](https://www.ion.org/publications/journal.cfm)
 - [**Near Surface Geophysics**](http://nsg.eage.org/)
 - [**Open geosciences**](http://www.degruyter.com/view/j/geo)
 - [**Photogrammetric Engineering and Remote Sensing**](http://www.asprs.org/Photogrammetric-Engineering-and-Remote-Sensing/PE-RS-Journals.html)

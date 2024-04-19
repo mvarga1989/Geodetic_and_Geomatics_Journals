@@ -1,6 +1,9 @@
 # Community list of geospatial sciences journals, mostly focused on geodesy, geomatics, geoinformatics, remote sensing, photogrammetry and geophysics
 
-Do you wish to add or change something? Please send me an [email](mailto:mvarga1989@gmail.com), create a [pull request](https://github.com/mvarga1989/Geodetic_and_Geomatics_Journals/pulls) or an [issue](https://github.com/mvarga1989/Geodetic_and_Geomatics_Journals/issues).
+### You wish to assist in making the list more useful, complete and accurate? Please send me an [email](mailto:mvarga1989@gmail.com).
+
+### If my content has added any value to your work, please consider to give a star and/or share on your professional social networks. Thank you!
+
 
 # Comparable lists of journals
 - [**Open Access Geodesy Journals**](https://oa.mg/journals/open-access-geodesy-journals)
@@ -44,6 +47,7 @@ Do you wish to add or change something? Please send me an [email](mailto:mvarga1
 
 ## Remote sensing journals
 - [**Canadian Journal of Remote Sensing**](https://www.tandfonline.com/journals/ujrs20)
+
 ## GIS
 
 

@@ -1,9 +1,24 @@
 # Community list of geospatial sciences journals, mostly focused on geodesy, geomatics, geoinformatics, remote sensing, photogrammetry and geophysics
 
-#### You wish to assist in making the list more useful, complete and accurate? Contributors are more than welcome. Please send me an [:e-mail:](mailto:mvarga1989@gmail.com).
-#### If my content has added any value to your work, please consider giving it a :star: and/or share on your professional social networks. Thank you!
-#### Other useful lists that I am maintaining [lists link](https://github.com/mvarga1989#community-lists-that-i-am-maintaining)
+**You wish to assist in making the list more useful, complete and accurate? Contributors are more than welcome. Please send me an [:e-mail:](mailto:mvarga1989@gmail.com).**
 
+**If this content has added any value to your work, please consider giving it a :star: and/or share on your professional social networks. Thank you!**
+
+**Other useful lists that I maintain are available here [:link:](https://github.com/mvarga1989#community-lists-that-i-maintain)**
+
+** Find out more about me here [:link:](https://mvarga1989.github.io/Matej_Varga/) and here [:link:](https://mvarga1989.github.io/mvarga1989_linktree/)
+
+<!-- toc -->
+
+- [Comparable lists of journals](#comparable-lists-of-journals)
+  * [Geodesy, geomatics, GIS, cartography journals](#geodesy-geomatics-gis-cartography-journals)
+  * [Remote sensing journals](#remote-sensing-journals)
+  * [GIS](#gis)
+  * [Geophysics](#geophysics)
+  * [Satellite Geodesy, Navigation Systems, GNSS](#satellite-geodesy-navigation-systems-gnss)
+  * [Interdisciplinary geospatial sciences journals](#interdisciplinary-geospatial-sciences-journals)
+
+<!-- tocstop -->
 
 # Comparable lists of journals
 - [**Open Access Geodesy Journals**](https://oa.mg/journals/open-access-geodesy-journals)
@@ -120,7 +135,7 @@
 - [**International Journal of Applied Earth Observation  and Geoinformation**](http://www.journals.elsevier.com/international-journal-of-applied-earth-observation-and-geoinformation/)
 - [**International Journal of Digital Earth**](http://www.tandfonline.com/action/journalInformation?show=abstractingIndexing&journalCode=tjde20)
 - [**International Journal of Earth Sciences**](http://www.springer.com/earth+sciences+and+geography/geology/journal/531)
-- [**International Journal of Geographical  Information Science**](http://www.tandfonline.com/action/journalInformation?show=abstractingIndexing&journalCode=tgis20)
+- [**International Journal of Geographical Information Science**](http://www.tandfonline.com/action/journalInformation?show=abstractingIndexing&journalCode=tgis20)
 - [**International Journal of Geophysics**](https://www.hindawi.com/journals/ijge/)
 - [**International Journal of Geosciences**](http://www.scirp.org/journal/IJG/)
 - [**International Journal of Remote Sensing**](http://www.tandfonline.com/loi/tres20)

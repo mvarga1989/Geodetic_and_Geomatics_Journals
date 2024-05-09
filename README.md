@@ -11,7 +11,7 @@
 <!-- toc -->
 
 - [Comparable lists of journals](#comparable-lists-of-journals)
-  * [Geodesy, geomatics, GIS, cartography journals](#geodesy-geomatics-gis-cartography-journals)
+  * [Geodesy, geomatics, GIS, cartography journals](#geodesy-geomatics-cartography-journals)
   * [Remote sensing journals](#remote-sensing-journals)
   * [GIS](#gis)
   * [Geophysics](#geophysics)
@@ -23,7 +23,7 @@
 # Comparable lists of journals
 - [**Open Access Geodesy Journals**](https://oa.mg/journals/open-access-geodesy-journals)
 
-## Geodesy, geomatics, GIS, cartography journals
+## Geodesy, geomatics, cartography journals
 - [**Acta Geodaetica et Geophysica**](https://link.springer.com/journal/40328)
 - [**Advances in Geodesy and Geoinformation**](https://journals.pan.pl/agg)
 - [**Applied Geomatics**](https://www.springer.com/journal/12518)
@@ -53,6 +53,7 @@
 - [**Journal of Surveying Engineering**](https://ascelibrary.org/journal/jsued2)
 - [**Kartografija i geoinformacije**](http://kig.kartografija.hr/index.php/kig)
 - [**Marine Geodesy**](https://www.tandfonline.com/toc/umgd20/current)
+- [**Nova Geodesia**](https://www.novageodesia.ro/index.php/ng)
 - [**Studia Geophysica et Geodaetica**](https://www.springer.com/journal/11200)
 - [**RevCAD Journal of Geodesy and Cadastre**](http://revcad.uab.ro/index.php?pagina=-&id=1&l=en)
 - [**Reports on Geodesy and Geoinformatics**](https://sciendo.com/journal/RGG)

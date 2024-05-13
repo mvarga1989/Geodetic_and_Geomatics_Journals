@@ -51,7 +51,6 @@
 - [**Journal of Geodetic Science**](http://www.degruyter.com/view/j/jogs)
 - [**Journal of Geomatics**](https://isgindia.org/journal-of-geomatics/)
 - [**Journal of Surveying Engineering**](https://ascelibrary.org/journal/jsued2)
-- [**Kartografija i geoinformacije**](http://kig.kartografija.hr/index.php/kig)
 - [**Marine Geodesy**](https://www.tandfonline.com/toc/umgd20/current)
 - [**Nova Geodesia**](https://www.novageodesia.ro/index.php/ng)
 - [**Studia Geophysica et Geodaetica**](https://www.springer.com/journal/11200)
@@ -65,6 +64,9 @@
 - [**Canadian Journal of Remote Sensing**](https://www.tandfonline.com/journals/ujrs20)
 
 ## GIS
+- [**Annals of GIS**](https://www.tandfonline.com/journals/tagi20)
+- [**GIScience & Remote Sensing**](http://www.tandfonline.com/loi/tgrs20)
+- [**Kartografija i geoinformacije**](http://kig.kartografija.hr/index.php/kig)
 
 
 ## Geophysics
@@ -126,7 +128,6 @@
 - [**Geosciences**](http://www.mdpi.com/journal/geosciences)
 - [**Geoscientific Model Development**](https://www.geoscientific-model-development.net/)
 - [**Geo-spatial Information Science**](http://www.tandfonline.com/toc/tgsi20/current)
-- [**GIScience & Remote Sensing**](http://www.tandfonline.com/loi/tgrs20)
 - [**Global Environmental Change**](https://www.journals.elsevier.com/global-environmental-change)
 - [**Global and Planetary Change**](https://www.sciencedirect.com/journal/global-and-planetary-change)
 - [**Heritage**](https://www.mdpi.com/journal/heritage)

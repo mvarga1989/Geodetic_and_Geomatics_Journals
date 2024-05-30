@@ -12,7 +12,7 @@
 
 - [Comparable lists of journals](#comparable-lists-of-journals)
   * [Geodesy, geomatics, GIS, cartography journals](#geodesy-geomatics-cartography-journals)
-  * [Remote sensing journals](#remote-sensing-journals)
+  * [Photogrammetry and Remote sensing journals](#photogrammetry-and-remote-sensing-journals)
   * [GIS](#gis)
   * [Geophysics](#geophysics)
   * [Satellite Geodesy, Navigation Systems, GNSS](#satellite-geodesy-navigation-systems-gnss)
@@ -22,6 +22,8 @@
 
 # Comparable lists of journals
 - [**Open Access Geodesy Journals**](https://oa.mg/journals/open-access-geodesy-journals)
+
+
 
 ## Geodesy, geomatics, cartography journals
 - [**Acta Geodaetica et Geophysica**](https://link.springer.com/journal/40328)
@@ -44,6 +46,7 @@
 - [**Geospatial Information Science**](https://www.tandfonline.com/journals/tgsi20)
 - [**International Association of Geodesy Symposia**](https://www.springer.com/series/1345)
 - [**International Journal of Engineering and Geosciences**](https://dergipark.org.tr/en/pub/ijeg)
+- [**International Journal of Cartography**](https://www.tandfonline.com/journals/tica20)
 - [**Journal of Applied Geodesy**](https://www.degruyter.com/journal/key/jag/html)
 - [**Journal of Cartography and Geographic Information- Kartographische Nachrichten**](https://link.springer.com/journal/42489)
 - [**Journal of Geodesy and Geoinformation**](http://hkmodergi.org/jgg/index.php/JGG/indeks)
@@ -60,12 +63,22 @@
 - [**Survey Review**](https://www.tandfonline.com/toc/ysre20/current)
 - [**Surveying and Land Information Science**](https://www.ingentaconnect.com/content/1559-7202)
 
-## Remote sensing journals
+## Photogrammetry and Remote sensing journals
 - [**Canadian Journal of Remote Sensing**](https://www.tandfonline.com/journals/ujrs20)
+- [**PFG – Journal of Photogrammetry, Remote Sensing and Geoinformation Science**](https://link.springer.com/journal/41064)
+   - covering the progress and application of photogrammetric methods, remote sensing technology and the interconnected field of geoinformation science. PFG accepts original papers on communication of new methodologies in data acquisition and new approaches to optimized processing and interpretation of all types of data which were acquired by photogrammetric methods, remote sensing, image processing and the computer-aided interpretation of such data in general.
+- [**Journal of Remote Sensing**](https://spj.science.org/journal/remotesensing)
+- [**The Photogrammetric Record**](https://onlinelibrary.wiley.com/journal/14779730)
+- [**Photogrammetric Journal Of Finland**](https://foto.aalto.fi/seura/pjf.html)
+- [**Virtual Worlds**](https://www.mdpi.com/journal/virtualworlds)
+   - Virtual Reality, Augmented Reality, Mixed Reality; Systems, tools, technologies, and software for VR/AR/MR; VR/AR/MR in industry, manufacturing; VR/AR/MR in medicine, healthcare; VR/AR/MR in education, entertainment; VR/AR/MR in public spaces;
+    Human–computer interaction, human–virtual user/agent interaction; Multisensory experiences; Human factors and psychology; Philosophy, ethics, and social aspects of VR.
 
 ## GIS
 - [**Annals of GIS**](https://www.tandfonline.com/journals/tagi20)
+   - remote sensing and data acquisition, geographic Information Systems, geo-visualization and virtual geographic environments (VGE), spatial analysis and modeling, uncertainty modelling
 - [**GIScience & Remote Sensing**](http://www.tandfonline.com/loi/tgrs20)
+   - geographic information systems (GIS), remote sensing of the environment (including digital image processing), geocomputation, spatial data mining, and geographic environmental modelling
 - [**Kartografija i geoinformacije**](http://kig.kartografija.hr/index.php/kig)
 
 

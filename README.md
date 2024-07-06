@@ -73,6 +73,11 @@
 - [**Virtual Worlds**](https://www.mdpi.com/journal/virtualworlds)
    - Virtual Reality, Augmented Reality, Mixed Reality; Systems, tools, technologies, and software for VR/AR/MR; VR/AR/MR in industry, manufacturing; VR/AR/MR in medicine, healthcare; VR/AR/MR in education, entertainment; VR/AR/MR in public spaces;
     Human–computer interaction, human–virtual user/agent interaction; Multisensory experiences; Human factors and psychology; Philosophy, ethics, and social aspects of VR.
+- [**Photogrammetric Engineering and Remote Sensing**](http://www.asprs.org/Photogrammetric-Engineering-and-Remote-Sensing/PE-RS-Journals.html)
+- [**Remote Sensing Environment**](https://www.journals.elsevier.com/remote-sensing-of-environment)
+- [**Remote Sensing Letters**](http://www.tandfonline.com/toc/trsl20/current)
+- [**Remote Sensing**](https://www.mdpi.com/journal/remotesensing)
+
 
 ## GIS
 - [**Annals of GIS**](https://www.tandfonline.com/journals/tagi20)
@@ -184,14 +189,10 @@
 - [**Measurement**](https://www.sciencedirect.com/journal/measurement)
 - [**Near Surface Geophysics**](http://nsg.eage.org/)
 - [**Open geosciences**](http://www.degruyter.com/view/j/geo)
-- [**Photogrammetric Engineering and Remote Sensing**](http://www.asprs.org/Photogrammetric-Engineering-and-Remote-Sensing/PE-RS-Journals.html)
 - [**Physical Review D**](https://journals.aps.org/prd/about)
 - [**Physics and Chemistry of the Earth**](https://www.sciencedirect.com/journal/physics-of-the-earth-and-planetary-interiors)
 - [**Physics of the Earth and Planetary Interiors**](https://www.journals.elsevier.com/physics-of-the-earth-and-planetary-interiors)
 - [**Pure and Applied Geophysics**](http://link.springer.com/journal/24)
-- [**Remote Sensing Environment**](https://www.journals.elsevier.com/remote-sensing-of-environment)
-- [**Remote Sensing Letters**](http://www.tandfonline.com/toc/trsl20/current)
-- [**Remote Sensing**](https://www.mdpi.com/journal/remotesensing)
 - [**RevCAD Journal of Geodesy and Cadastre**](http://revcad.uab.ro/index.php?pagina=-&id=1&l=en)
 - [**Reviews of Geophysics**](http://preview.onlinelibrary.wiley.com/agu/journal/10.1002/%28ISSN%291944-9208/)
 - [**Science of Remote Sensing**](https://www.sciencedirect.com/journal/science-of-remote-sensing)

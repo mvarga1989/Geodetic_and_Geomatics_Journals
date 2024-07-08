@@ -27,6 +27,7 @@
 
 ## Geodesy, geomatics, cartography journals
 - [**Acta Geodaetica et Geophysica**](https://link.springer.com/journal/40328)
+- [**Acta Geodaetica et Cartographica Sinica**](http://xb.chinasmp.com/EN/1001-1595/home.shtml)
 - [**Advances in Geodesy and Geoinformation**](https://journals.pan.pl/agg)
 - [**Applied Geomatics**](https://www.springer.com/journal/12518)
 - [**Bulletin of Geodetic Science**](http://www.scielo.br/revistas/bcg/iaboutj.htm)

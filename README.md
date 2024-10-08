@@ -6,7 +6,7 @@
 
 **Other useful lists that I maintain are available here [:link:](https://github.com/mvarga1989#community-lists-that-i-maintain)**
 
-** Find out more about me here [:link:](https://mvarga1989.github.io/Matej_Varga/) and here [:link:](https://mvarga1989.github.io/mvarga1989_linktree/)
+**Find out more about me here [:link:](https://mvarga1989.github.io/Matej_Varga/) and here [:link:](https://mvarga1989.github.io/mvarga1989_linktree/)
 
 <!-- toc -->
 
@@ -67,13 +67,10 @@
 ## Photogrammetry and Remote sensing journals
 - [**Canadian Journal of Remote Sensing**](https://www.tandfonline.com/journals/ujrs20)
 - [**PFG – Journal of Photogrammetry, Remote Sensing and Geoinformation Science**](https://link.springer.com/journal/41064)
-   - covering the progress and application of photogrammetric methods, remote sensing technology and the interconnected field of geoinformation science. PFG accepts original papers on communication of new methodologies in data acquisition and new approaches to optimized processing and interpretation of all types of data which were acquired by photogrammetric methods, remote sensing, image processing and the computer-aided interpretation of such data in general.
 - [**Journal of Remote Sensing**](https://spj.science.org/journal/remotesensing)
 - [**The Photogrammetric Record**](https://onlinelibrary.wiley.com/journal/14779730)
 - [**Photogrammetric Journal Of Finland**](https://foto.aalto.fi/seura/pjf.html)
 - [**Virtual Worlds**](https://www.mdpi.com/journal/virtualworlds)
-   - Virtual Reality, Augmented Reality, Mixed Reality; Systems, tools, technologies, and software for VR/AR/MR; VR/AR/MR in industry, manufacturing; VR/AR/MR in medicine, healthcare; VR/AR/MR in education, entertainment; VR/AR/MR in public spaces;
-    Human–computer interaction, human–virtual user/agent interaction; Multisensory experiences; Human factors and psychology; Philosophy, ethics, and social aspects of VR.
 - [**Photogrammetric Engineering and Remote Sensing**](http://www.asprs.org/Photogrammetric-Engineering-and-Remote-Sensing/PE-RS-Journals.html)
 - [**Remote Sensing Environment**](https://www.journals.elsevier.com/remote-sensing-of-environment)
 - [**Remote Sensing Letters**](http://www.tandfonline.com/toc/trsl20/current)
@@ -82,9 +79,7 @@
 
 ## GIS
 - [**Annals of GIS**](https://www.tandfonline.com/journals/tagi20)
-   - remote sensing and data acquisition, geographic Information Systems, geo-visualization and virtual geographic environments (VGE), spatial analysis and modeling, uncertainty modelling
 - [**GIScience & Remote Sensing**](http://www.tandfonline.com/loi/tgrs20)
-   - geographic information systems (GIS), remote sensing of the environment (including digital image processing), geocomputation, spatial data mining, and geographic environmental modelling
 - [**Kartografija i geoinformacije**](http://kig.kartografija.hr/index.php/kig)
 
 

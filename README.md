@@ -32,6 +32,7 @@
 - [**Applied Geomatics**](https://www.springer.com/journal/12518)
 - [**Bulletin of Geodetic Science**](http://www.scielo.br/revistas/bcg/iaboutj.htm)
 - [**Cartography and Geographic Information Science**](https://www.tandfonline.com/toc/tcag20/current)
+- [**Cartographica**](https://utpjournals.press/loi/cart)
 - [**Contributions to Geophysics and Geodesy**](https://journal.geo.sav.sk/cgg)
 - [**Contributions to Geophysics and Geodesy**](https://www.degruyter.com/view/j/congeo)
 - [**Geocarto International**](http://www.tandfonline.com/action/journalInformation?show=abstractingIndexing&journalCode=tgei20)

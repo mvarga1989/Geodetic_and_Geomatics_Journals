@@ -10,19 +10,15 @@
 
 <!-- toc -->
 
-- [Comparable lists of journals](#comparable-lists-of-journals)
   * [Geodesy, geomatics, GIS, cartography journals](#geodesy-geomatics-cartography-journals)
   * [Photogrammetry and Remote sensing journals](#photogrammetry-and-remote-sensing-journals)
   * [GIS](#gis)
   * [Geophysics](#geophysics)
   * [Satellite Geodesy, Navigation Systems, GNSS](#satellite-geodesy-navigation-systems-gnss)
   * [Interdisciplinary geospatial sciences journals](#interdisciplinary-geospatial-sciences-journals)
-
+  * [Comparable lists of journals](#comparable-lists-of-journals)
+  
 <!-- tocstop -->
-
-# Comparable lists of journals
-- [**Open Access Geodesy Journals**](https://oa.mg/journals/open-access-geodesy-journals)
-
 
 
 ## Geodesy, geomatics, cartography journals
@@ -204,3 +200,8 @@
 - [**Terrestrial, Atmospheric and Oceanic Sciences**](http://tao.cgu.org.tw/index.php)
 - [**Transactions in GIS**](https://onlinelibrary.wiley.com/journal/14679671)
 - [**Water Resources Research**](https://agupubs.onlinelibrary.wiley.com/journal/19447973)
+
+
+## Comparable lists of journals
+- [**Open Access Geodesy Journals**](https://oa.mg/journals/open-access-geodesy-journals)
+- [**Register : Geodetic journals**](http://www.in-dubio-pro-geo.de/index.php?file=register/journals)

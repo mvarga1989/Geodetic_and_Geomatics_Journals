@@ -34,12 +34,12 @@
 - [**Geocarto International**](http://www.tandfonline.com/action/journalInformation?show=abstractingIndexing&journalCode=tgei20)
 - [**Geodesy and Cartography**](https://journals.vilniustech.lt/index.php/GAC)
 - [**Geodesy and Cartography**](https://www.tandfonline.com/action/journalInformation?journalCode=tgac20)
-- [**Geodesy and Geodynamics**](http://www.keaipublishing.com/en/journals/geodesy-and-geodynamics/) [**Link2**](https://www.sciencedirect.com/journal/geodesy-and-geodynamics)
-- [**Geodetski glasnik**](http://www.suggsbih.ba/index.htm)
+- [**Geodesy and Geodynamics**](http://www.keaipublishing.com/en/journals/geodesy-and-geodynamics/) [**Link2**](https://www.sciencedirect.com/journal/geodesy-and-geodynamics)- [**Geodetski glasnik**](http://www.suggsbih.ba/index.htm)
 - [**Geodetski list**](http://hrcak.srce.hr/geodetski-list)
 - [**Geodetski vestnik**](http://geodetski-vestnik.com/en/)
+- [**Geomatica**](https://www.sciencedirect.com/journal/geomatica/)
 - [**Geomatica**](https://cdnsciencepub.com/journal/geomat)
-- [**Geomatics and Enivornmental Engineering**](https://www.gaee.agh.edu.pl/index.php/gaee/index)
+- [**Geomatics and Enivronmental Engineering**](https://www.gaee.agh.edu.pl/index.php/gaee/index)
 - [**Geomatics**](https://www.mdpi.com/journal/Geomatics)
 - [**Geospatial Information Science**](https://www.tandfonline.com/journals/tgsi20)
 - [**International Association of Geodesy Symposia**](https://www.springer.com/series/1345)
@@ -78,7 +78,7 @@
 - [**Annals of GIS**](https://www.tandfonline.com/journals/tagi20)
 - [**GIScience & Remote Sensing**](http://www.tandfonline.com/loi/tgrs20)
 - [**Kartografija i geoinformacije**](http://kig.kartografija.hr/index.php/kig)
-
+- [**Journal of Geovisualization and Spatial Analysis**](https://link.springer.com/journal/41651)
 
 ## Geophysics
 - [**Acta Geodynamica et Geomaterialia**](https://www.irsm.cas.cz/index_en.php?page=acta_scope)
